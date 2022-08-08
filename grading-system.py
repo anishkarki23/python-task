@@ -38,5 +38,6 @@ for mark in student_marks:
     else:
         division += "Fail"
 
-    print(f"Student number: {x} percentage: {per} Div:{division}")
+    print(f"Student number: {x} percentage: {per} Div:{division}" )
+    print("Thank you for using the system")
     x +=1
